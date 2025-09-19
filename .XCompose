@@ -1,0 +1,9 @@
+include "%H/.local/share/omarchy/default/xcompose"
+
+# Identification
+<Multi_key> <space> <n> : "Kevin Creel"
+<Multi_key> <space> <e> : "kevincreel@gmail.com"
+<Multi_key> <space> <h> : "https://"
+<Multi_key> <space> <c> : ".com"
+<Multi_key> <space> <l> : "localhost"
+
